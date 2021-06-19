@@ -1,0 +1,18 @@
+WORD : legerity
+
+PART_OF_SPEECH : noun
+
+DEFINITION : Quickness or agility of mind or body.
+
+EXAMPLE : Alighting with the legerity of a cat, he swerved leftward in the recoil, and was off, like a streak of mulberry-coloured lightning, down the High.
+
+/Users/elijahsutton/Google-Drive/Professional/Portfolio/Word-of-the-Day-Collector/wod_data.txt updated successfully.
+WORD : quietive
+
+PART_OF_SPEECH : noun
+
+DEFINITION : That which has the property of inducing quiet or calm, as a sedative medicine.
+
+EXAMPLE : For every sort of pleasure is never anything more than the quietive of some need or longing; and that pleasure should come to an end as soon as the need ceases, is no more a subject of complaint than that a man cannot go on eating after he has had his dinner, or fall asleep again after a good night’s rest.
+
+/Users/elijahsutton/Google-Drive/Professional/Portfolio/Word-of-the-Day-Collector/wod_data.txt updated successfully.
