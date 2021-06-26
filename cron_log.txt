@@ -25,3 +25,21 @@ DEFINITION : A gelatinous compound of linseed oil and mastic varnish, used by ar
 EXAMPLE : The same result may be obtained by the use of megilp, a mixture employed by artists.
 
 /Users/elijahsutton/Google-Drive/Professional/Portfolio/Word-of-the-Day-Collector/wod_data.txt updated successfully.
+WORD : castigatory
+
+PART_OF_SPEECH : adjective
+
+DEFINITION : Serving to castigate; tending to correction; corrective; punitive.
+
+EXAMPLE : The castigatory sermon which Fräulein Rottenmeier had held in reserve for Heidi was put off till the following day, as she felt too exhausted now after all the emotions she had gone through of irritation, anger, and fright, of which Heidi had unconsciously been the cause.
+
+/Users/elijahsutton/Google-Drive/Professional/Portfolio/Word-of-the-Day-Collector/wod_data.txt updated successfully.
+WORD : hydrospace
+
+PART_OF_SPEECH : noun
+
+DEFINITION : The area between the ocean's surface and the seabed.
+
+EXAMPLE : Work ranges from surveying and engineering in tidal and coastal areas to geomagnetic and hydrospace seismological observations.
+
+/Users/elijahsutton/Google-Drive/Professional/Portfolio/Word-of-the-Day-Collector/wod_data.txt updated successfully.
